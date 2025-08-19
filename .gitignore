@@ -12,3 +12,12 @@ CLAUDE.md
 
 .vercel
 prompts/
+
+# Local environment files
+docker/all-in-one/.env
+docker/all-in-one/.env.local
+**/.env
+**/.env.local
+
+# Keep examples
+!docker/all-in-one/.env.example
